@@ -1,0 +1,12 @@
+h3{
+    color: #3656d4;
+    /* 3f4c7f */
+}
+.main-nav{
+    color: #6D7B93;
+    list-style: none;
+}
+
+.main-nav__item{
+    display: inline-block;
+}
